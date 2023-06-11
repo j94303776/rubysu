@@ -1,3 +1,7 @@
+NOTE: this is now transfered to https://github.com/TwilightCoders/rubysu.
+
+---
+
 [![Gem Version](https://badge.fury.io/rb/sudo.svg)](https://badge.fury.io/rb/sudo)[![Build Status](https://travis-ci.com/gderosa/rubysu.svg?branch=master)](https://travis-ci.com/gderosa/rubysu)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3fdebfb836bebb531fb3/maintainability)](https://codeclimate.com/github/gderosa/rubysu/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/3fdebfb836bebb531fb3/test_coverage)](https://codeclimate.com/github/gderosa/rubysu/test_coverage)
