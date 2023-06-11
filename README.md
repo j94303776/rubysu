@@ -1,4 +1,4 @@
-NOTE: this is now transfered to https://github.com/TwilightCoders/rubysu.
+**NOTE**: this is now transfered to https://github.com/TwilightCoders/rubysu.
 
 ---
 
